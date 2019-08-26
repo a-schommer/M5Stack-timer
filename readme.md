@@ -5,7 +5,7 @@
   * [Introduction](#introduction)
   * [Setting up](#setting-up)
   * [Requirements](#requirements)
-  * [Developer Notes](#dev-notes)
+  * [Developer Notes](#developer-notes)
   * [License](#license)
 
 [tocend]: # (toc end)
