@@ -40,6 +40,7 @@ What do you need to "use" this sketch?
 * optional(!): M5Stack SD Updater (https://github.com/tobozo/M5Stack-SD-Updater/)
   This is neither required nor related to the sketchs purpose; i just sense it to be very handy as it enables you to "upload" sketches just by putting the binaries onto the SD card - with very little footprint in the sketch (source).
   Feel free to disable it by commenting out / removing the #include "M5StackUpdater.h" in the beginning of timer.ino.
+  If you want to use it, the repository also contains a json and jpeg file meant to be used with that - copy them to the json/jpeg directory of your SD card. As usual, if you press the leftmost button during booting the M5Stack, that menu is run "instead of" this sketch.
 
 ## Developer Notes
 
